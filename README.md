@@ -27,7 +27,7 @@ LIFETIME: 150K
 
 ### PERINTAH UPDATE
 
-<pre><code>wget https://raw.githubusercontent.com/maula/up.sh && chmod +x up.sh && ./up.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/GeKaStore/maula/up.sh && chmod +x up.sh && ./up.sh</code></pre>
 
 ### TESTED ON OS
 
